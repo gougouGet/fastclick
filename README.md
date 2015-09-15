@@ -93,7 +93,7 @@ FastClick has AMD (Asynchronous Module Definition) support. This allows it to be
 var FastClick = require('fastclick');
 FastClick.attach(document.body, options);
 ```
-
+###纯粹用来测试试试###
 ### Package managers ###
 
 You can install FastClick using [Component](https://github.com/component/component), [npm](https://npmjs.org/package/fastclick) or [Bower](http://bower.io/).
